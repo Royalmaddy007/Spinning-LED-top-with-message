@@ -1,1 +1,3 @@
 # Spinning-LED-top-with-message
+
+The Spinning LED Message System uses Persistence of Vision for captivating message displays with rotating LEDs. It exploits afterimage effects due to limited motion detection, enhancing with higher frequencies. The system has a circuit board with seven LEDs on a rotating fan blade, showing pixelated characters with timed activations. Motion pattern detection adapts to lighting changes, creating various visual symbols for flexible patterns. Unlike others, our design overcomes drifting and battery issues, displaying messages in different rotations. The setup includes SMD LEDs powered by AAA batteries with a step-up converter for a 5V microcontroller. Motion sensing ensures proper orientation, as shown in the diagram.
